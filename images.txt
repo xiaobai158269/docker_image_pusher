@@ -1,2 +1,1 @@
-gcpaas/dataroom:2.0.2
-emqx:5.0.14
+index.docker.io/cloudtogouser/pageplug-ce:v1.9.35
