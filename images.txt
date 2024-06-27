@@ -1,1 +1,1 @@
-index.docker.io/cloudtogouser/pageplug-ce:v1.9.35
+emqx/neuron:2.7.5
