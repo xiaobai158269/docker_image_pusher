@@ -1,1 +1,2 @@
 nodered/node-red:4.0
+paddlecloud/paddleocr:2.6-cpu-latest
