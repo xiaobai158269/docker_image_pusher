@@ -1,3 +1,1 @@
-nodered/node-red:4.0
-paddlecloud/paddleocr:2.6-cpu-latest
-gitlab/gitlab-ce:16.10.5-ce.0
+gitlab/gitlab-ce:16.6.8-ce.0
