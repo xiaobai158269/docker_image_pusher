@@ -1,1 +1,1 @@
-mysql:8.0.20
+anapsix/alpine-java:8_server-jre_unlimited
