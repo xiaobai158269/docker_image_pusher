@@ -1,1 +1,1 @@
-langgenius/dify-api:1.0.0
+openjdk:8-jre-alpine
