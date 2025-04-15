@@ -1,1 +1,1 @@
-rancher/rancher-agent:v2.6.11
+rke-tools:v0.1.90
