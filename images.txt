@@ -1,1 +1,1 @@
-rancher/rke-tools:v0.1.80
+langgenius/dify-api:1.2.0
