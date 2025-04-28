@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.8.2
+portainer/portainer-ce:2.9.1
