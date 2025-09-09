@@ -1,1 +1,1 @@
-mysql:5.7.42
+linuxserver/bookstack:25.07.1
