@@ -1,1 +1,1 @@
-mysql:8.0.22
+bookstack:25.07.2
