@@ -1,1 +1,1 @@
-linuxserver/bookstack:25.07.2
+apache/iotdb:2.0.5-standalone
