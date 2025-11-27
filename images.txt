@@ -1,1 +1,1 @@
-eclipse-temurin:21-jre
+eclipse-temurin:25-jre-jammy
