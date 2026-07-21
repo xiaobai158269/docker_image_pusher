@@ -1,1 +1,1 @@
-eclipse-temurin:25-jre-jammy
+tdengine/tdengine:3.3.6.13
