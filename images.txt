@@ -1,1 +1,1 @@
-tdengine/tdengine:3.3.6.13
+pgvector/pgvector:0.8.2-pg16
