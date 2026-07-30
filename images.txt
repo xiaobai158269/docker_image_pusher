@@ -1,1 +1,1 @@
-pgvector/pgvector:0.8.2-pg16
+gitlab-ce:16.10.10-ce.0
