@@ -1,1 +1,1 @@
-gitlab-ce:16.10.10-ce.0
+gitlab/gitlab-ce:16.10.10-ce.0
