@@ -1,1 +1,1 @@
-pgvector:0.8.6-pg16-bookworm
+--platform=linux/amd64 pgvector/pgvector:0.8.6-pg16-bookworm
