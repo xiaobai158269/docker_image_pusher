@@ -1,1 +1,1 @@
---platform=linux/amd64 pgvector/pgvector:0.8.6-pg16-bookworm
+ghcr.io/usestrix/strix-sandbox:1.3.0
