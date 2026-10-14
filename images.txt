@@ -1,2 +1,2 @@
---platform=linux/amd64 node:22.23.2-bookworm-slim
---platform=linux/arm64 node:22.23.2-bookworm-slim
+--platform=linux/amd64 nginx:1.27-alpine-slim
+--platform=linux/arm64 nginx:1.27-alpine-slim
